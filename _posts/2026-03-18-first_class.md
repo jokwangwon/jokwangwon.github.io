@@ -2,7 +2,7 @@
 title: "[TIL] 부트캠프 첫 복습 및 깃허브 블로그 세팅 완료!"
 date: 2026-03-18 18:00:00 +0900
 categories: [Bootcamp, TIL]
-tags: [til, github, blog]
+tags: [til ,SQL, github, blog]
 ---
 
 ## 📚 학습 내용
