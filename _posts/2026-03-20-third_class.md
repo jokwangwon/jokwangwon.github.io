@@ -1,6 +1,6 @@
 ---
 title: "[TIL] 부트캠프 두번째 복습시간"
-date: 2026-03-19 18:00:00 +0900
+date: 2026-03-20 17:00:00 +0900
 categories: [Bootcamp, TIL]
 tags: [til ,SQL, github, blog]
 ---
