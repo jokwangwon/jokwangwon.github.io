@@ -4,5 +4,31 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 조광원 — AI Backend Developer
+
+> 여러 환경에서 AI를 실행해보고, 아이디어를 실제 서비스 구조로 검증하는 것을
+> 좋아하는 Python 백엔드 개발자입니다. 
+> 지금은 그 토대가 되는 DB 내부구조를 공부하고 있습니다.
+
+## 민원e
+
+공공기관용 AI 민원 상담 솔루션의 백엔드를 약 1년 6개월간 개발했습니다.
+FastAPI 기반 LLM 추론 파이프라인, WebSocket 실시간 통신, OpenSearch 검색,
+STT 연계, Docker/Linux 온프레미스 운영을 담당했습니다. 
+정확도만 쫓던 3모델 보팅 구조를 분석해 단일 대형 모델로 재설계하면서, 
+AI 서비스는 모델 호출이 아니라 정확도·속도·비용·운영 안정성 사이의 균형을 설계하는 일이라는 것을 배웠습니다.
+
+## 지금은
+
+Oracle DBA 부트캠프에서 아키텍처, 백업/복구, SQL 튜닝을 배우고 있습니다.
+LLM 서비스를 운영하며 느꼈던 검색과 데이터 계층의 한계를, 이번엔 DB 내부에서부터
+이해해보려는 시도입니다.
+
+## 이 블로그의 글
+
+주 1회, 네 가지 카테고리로만 씁니다.
+
+- **Projects** — 직접 만든 것의 설계와 결정 과정
+- **Deep Dive** — DB 내부구조 등 한 주제를 파고든 글
+- **Retrospective** — 배운 것과 실수의 회고
+- **Reading** — 기술 서적 챕터 단위 독서 노트
