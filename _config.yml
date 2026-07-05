@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: 개발늪 생존기 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: LLM을 실제 서비스로 연결하는 AI 백엔드 개발자 — DB 내부구조까지 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  LLM을 실제 서비스로 연결하는 AI 백엔드 개발과 데이터베이스 내부구조를 기록하는 개발 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
